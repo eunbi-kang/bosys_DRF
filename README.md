@@ -1,4 +1,4 @@
-# bosys
+# Book-Order System(bosys) : Django REST Framework (DRF)
 
 ## 📚 Book Order System
 A book order management system built with **Redux**, **Django REST Framework (DRF)**, and **Spring Boot**.
